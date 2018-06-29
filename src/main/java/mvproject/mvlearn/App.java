@@ -20,7 +20,7 @@ public class App
 
         // Create a JSON Document
         JsonObject arthur = JsonObject.create()
-            .put("name", "Arthur")
+            .put("name", "ArthurTEST")
             .put("email", "kingarthur@couchbase.com")
             .put("interests", JsonArray.from("Holy Grail", "African Swallows"));
 
